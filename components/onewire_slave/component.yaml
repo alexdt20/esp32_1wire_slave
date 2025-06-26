@@ -1,0 +1,5 @@
+component:
+  name: "OneWire Slave"
+  description: "1-Wire Slave implementation for ESP32"
+  platforms:
+    - esp32
